@@ -2,3 +2,7 @@ This repository contains an ipython notebook analyzing the needed
 success probability on each digital hemispherical photo in order to
 produce a given likelihood of success (meaning that M out of N photos
 in each bout are good).
+
+This is available online here:
+
+http://nbviewer.ipython.org/github/StupendousMan67/digital-hemispherical-photos/blob/master/DHP%20Success%20Fraction%20Analysis.ipynb
