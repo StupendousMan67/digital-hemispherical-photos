@@ -1,0 +1,4 @@
+This repository contains an ipython notebook analyzing the needed
+success probability on each digital hemispherical photo in order to
+produce a given likelihood of success (meaning that M out of N photos
+in each bout are good).
